@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%="diggu RAja" %>
+<%="diggu RAja Royal Rajput" %>
 </body>
 </html>
